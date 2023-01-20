@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Montserrat:wght@400;600;700&family=Moon+Dance&family=Open+Sans:wght@300&family=PT+Serif&family=Poppins:wght@100;500;600;700&family=Raleway:wght@500;700&family=Roboto:ital,wght@0,700;1,300&display=swap');
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.carousel-height {
+  min-height: calc(100vh - 70px);
+  object-fit: cover;
+}
+
+.button-bg-color {
+  background-color: white;
+}
+
+.text-color {
+  color: #3F87F5;
+}
+
+
+/* packages css here..... */
+
+.card-design {
+  border-radius: 2rem;
+  background-color: #3F87F5;
+  margin-top: -1rem;
+}
+
+.icon-bg-color {
+  padding: 0 4px;
+  background-color: #EDECF9;
+  border-radius: 50%;
+  color: #5243C2;
+}
+
+.card-button {
+  background-color: #f8e6f2;
+  border-radius: 2rem;
+  padding: 11px 0px;
+}
+
+.hot-icon {
+  padding: 0 4px;
+  background-color: #6c9adf;
+  border-radius: 50%;
+}
+
+.badge-design {
+  margin-left: -3rem;
+  padding: 10px 20px;
+  font-size: 1rem;
+}
